@@ -34,3 +34,15 @@ a:hover{
     display: flex;
     justify-content: center;
 }
+
+
+
+h5{
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+}
+.footer{
+    background-color: #0c2d19;
+}
