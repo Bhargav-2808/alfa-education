@@ -1,0 +1,19 @@
+h1{
+    background-color: #0c2d19;
+    color: white;
+    text-align: center;
+}
+
+body{
+    margin: auto;
+    background-color: rgb(203, 238, 238);
+}
+.animate-typing
+{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #0c2d19;
+    
+}
