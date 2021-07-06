@@ -15,5 +15,22 @@ body{
     font-size: 2rem;
     font-weight: 500;
     color: #0c2d19;
-    
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-success {
+    background-color:#3f3d56;
+}
+.cen{
+    display: flex;
+    justify-content: center;
 }
